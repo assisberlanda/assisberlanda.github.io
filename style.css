@@ -6,6 +6,14 @@
 #F2F2F2
 */
 
+.menu {
+    background-color: #7013F2;
+    color: #fff;
+    margin-right: 30px;
+    text-decoration: none;
+    padding: 5px 20px;
+    display: inline-block;
+}
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -13,21 +21,26 @@ body {
 h2 {
     color: #7013F2;
 }
+
 .foto-assis {
     width: 200px;
     border-radius: 50px;
     border: 1px solid blue;
-    box-align: left;
+   
 }
 .oi {
-    background-color: #7013F2;
+    background-color: #BFA7F2;
     text-align: center;
     border-radius: 10px;
     padding: 10px;
-    
-    color: white;
+    color: #7013F2;
 }
-
+.perfil {
+    width: 600px;
+    background-color: #F2F2F2;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.392);
+}
 
 footer {
     text-align: center;
